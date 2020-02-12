@@ -4,4 +4,15 @@ end
 
 greeting
 
+$ ruby greeting.rb
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
+$ 
+
+greeting
+
+
 
